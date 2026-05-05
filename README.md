@@ -10,7 +10,7 @@ pip install opencv-python pillow numpy face_recognition dlib scipy pygame imutil
 
 ## How to run
 Run:
-python run.py
+python main.py
 
 ## Description
 After running the project, a simple GUI will open.  
